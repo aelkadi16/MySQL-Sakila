@@ -1,4 +1,4 @@
--- MySQL Homework Assignment 
+
 -- Anthony Elkadi 
 -- Case Western Reserve - Data Analytics
 
